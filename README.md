@@ -1,6 +1,6 @@
 # LW4_Improving-CNN-Performance
 
-###### [https://colab.research.google.com/drive/1F-j-5BSqdlWu90jitiYSE0U9LtxYDO7f?usp=sharing)]
+###### [https://colab.research.google.com/drive/1F-j-5BSqdlWu90jitiYSE0U9LtxYDO7f?usp=sharing]
 
 ---
 
